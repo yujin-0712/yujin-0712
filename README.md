@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customcolorlist=10&height=300&section=header&text=YUJIN'S%20GITHUB&fontSize=60&animation=twinkLing)
 ![header](https://capsule-render.vercel.app/api?type=slice)
+
+<img src="http://img.shields.io/badge/4chan-006600?style=flat-square&logo=html5&logoColor=pink"/>
 
 
 
