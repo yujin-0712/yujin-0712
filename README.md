@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-&shark=![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=slice)
+
+
 
 pip install -r requirements.txt
 uvicorn main:app --reload
-
-
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
+<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
